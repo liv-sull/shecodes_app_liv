@@ -1,0 +1,57 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+h4 {
+  font-size: 21px;
+  padding-bottom: 5px;
+}
+.units {
+  font-size: 14px;
+  padding: 5px;
+}
+.sunny-day {
+  position: relative;
+  color: yellow;
+  right: -110px;
+  top: 25px;
+  font-size: 70px;
+  padding: 10px 50px 30px 0;
+}
+.today-sunshine {
+  position: relative;
+  left: 10px;
+  top: 30px;
+  font-size: 30px;
+  margin: 0 auto;
+}
+.top-weather {
+  font-size: 15px;
+}
+.main-box {
+  font-size: 14px;
+}
+.wed-sun {
+  font-size: 30px;
+  padding: 7px;
+  color: yellow;
+}
+.cloud {
+  font-size: 30px;
+  padding: 7px;
+  color: darkgrey;
+}
+.overcast {
+  font-size: 30px;
+  padding: 7px;
+  color: lightblue;
+}
+.this-week {
+  padding: 5px;
+}
+
+.wed-box {
+  padding: 5px;
+}
+.search-box {
+  margin-left: 580px;
+}
